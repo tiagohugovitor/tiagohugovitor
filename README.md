@@ -2,8 +2,9 @@
 I'm Vitor Hugo, a Frontend Developer with over 6 years of experience, specialized in React.
 
 ### 🎓 Education
-- Bachelor's in Computer Science from UFU.
 - Currently pursuing a Master's in Artificial Intelligence at UFU.
+- MBA in Big Data and Competitive Intelligence at Descomplica.
+- Bachelor's in Computer Science at UFU.
 
 ### 🛠️ Skills
 - Languages: JavaScript, TypeScript
